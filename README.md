@@ -1,2 +1,0 @@
-# coleta
-Sistema de coleta
